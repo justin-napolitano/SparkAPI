@@ -1,31 +1,35 @@
 ---
 slug: github-sparkapi
-title: 'SparkAPI: Minimal Python Utility for Simplified PySpark Data Loading'
+title: 'SparkAPI: Simplifying Apache Spark with Python'
 repo: justin-napolitano/SparkAPI
 githubUrl: https://github.com/justin-napolitano/SparkAPI
 generatedAt: '2025-11-23T09:38:43.817594Z'
 source: github-auto
 summary: >-
-  Overview of SparkAPI, a Python class that streamlines SparkSession management and CSV data loading
-  using PySpark.
+  SparkAPI is a Python utility that streamlines Spark session management and
+  data loading for easier data processing.
 tags:
   - pyspark
   - apache-spark
   - python
   - data-loading
   - spark-session
-seoPrimaryKeyword: sparkapi
+seoPrimaryKeyword: sparkapi python utility
 seoSecondaryKeywords:
-  - pyspark
-  - spark session
-  - csv data loading
+  - apache spark integration
+  - pyspark data loading
+  - spark session management
+  - python spark utility
+  - reduce spark setup code
 seoOptimized: true
 topicFamily: datascience
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post focuses on a Python utility class that simplifies PySpark data loading and SparkSession
-  management, which aligns well with data analysis and ETL pipeline workflows within the
-  'Datascience' family.
+  The post focuses on a Python utility class that simplifies PySpark data
+  loading and SparkSession management, which aligns well with data analysis and
+  ETL pipeline workflows within the 'Datascience' family.
+kind: project
+id: github-sparkapi
 ---
 
 # Understanding SparkAPI: A Practical Reference
