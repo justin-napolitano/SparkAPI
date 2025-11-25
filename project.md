@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/SparkAPI
 generatedAt: '2025-11-24T21:36:23.999Z'
 source: github-auto
 summary: >-
-  SparkAPI is a Python library that streamlines Apache Spark operations,
-  focusing on session management and data loading.
+  SparkAPI is a Python library that streamlines Apache Spark operations, focusing on session
+  management and data loading.
 tags:
   - pyspark
   - apache spark
@@ -23,8 +23,8 @@ seoSecondaryKeywords:
   - python spark library
   - dataframe operations
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -94,4 +94,5 @@ SparkAPI/
 - Implement configuration options for SparkSession builder
 - Include error handling and logging mechanisms
 - Provide unit tests and example notebooks
+
 
